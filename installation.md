@@ -2,7 +2,7 @@
 
 ### <i class="bi bi-clipboard-check"></i> Installation - การติดตั้ง
 
-`ทำตามอย่างระมัดระวังทีละขึ้นตอน`
+`โปรดทำตามอย่างระมัดระวังทีละขึ้นตอน`
 1. <color style="color:lime">ดาวโหลดไฟล์</color> plugin จาก github ตรง <color style="color: yellow">"Assets"</color> ที่ **TuWavy.jar** ตามหัวข้อ Release
 2. <color style="color:lime">ดาวโหลด plugin "Multiverse-core" และ "Multiverse-NetherPortal"</color> จาก <color style="color: pink" >github</color> ตรง "Requirement" ที่ "download here"
 3. นำทั้ง 3 ไฟล์ โยนใส่โฟลเดอร์ plugin ที่เซิฟเวอร์ของคุณ
