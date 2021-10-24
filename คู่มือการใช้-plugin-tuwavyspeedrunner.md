@@ -13,7 +13,7 @@
 <br>
 
 #### Gamemode 1
-หลายๆ คนลองเล่นแบบ Gamemode 1 ซึ่งตอนเริ่มเกมมันจะนับถอยหลัง 120 วินาที (2 นาที) ในระหว่างนั้นยังเป็น Gamemode survival ตามปกติอยู่ ซึ่งถ้าเวลานับถอยหลังครบ 120 วินาทีแล้ว ก็จะมีการเปลี่ยน Gamemode ให้อัตโนมัติจาก Gamemode survival เป็น Gamemode creative ซึ่งจะให้ได้แค่ 10 วินาทีเท่านั้น และจะกลับไปนับ 120 วินาทีอีกครั้ง ซึ่งสิ่งที่ให้เสกมา **ไม่ได้** เลยก็คือบล็อก <img src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/e/ea/Filled_End_Portal_Frame_%28S%29_JE5_BE2.png" width="32"/> `End portal frame` กับ <img src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/6/68/Bedrock_JE2_BE2.png" width="32"/> `Bedrock`
+หลายๆ คนลองเล่นแบบ Gamemode 1 ซึ่งตอนเริ่มเกมมันจะนับถอยหลัง 120 วินาที (2 นาที) ในระหว่างนั้นยังเป็น Gamemode survival ตามปกติอยู่ ซึ่งถ้าเวลานับถอยหลังครบ 120 วินาทีแล้ว ก็จะมีการเปลี่ยน Gamemode ให้อัตโนมัติจาก Gamemode survival เป็น Gamemode creative ซึ่งจะให้ได้แค่ 10 วินาทีเท่านั้น และจะกลับไปนับ 120 วินาทีอีกครั้ง ซึ่งสิ่งที่ให้เสกมา **ไม่ได้** เลยก็คือบล็อก <img src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/e/ea/Filled_End_Portal_Frame_%28S%29_JE5_BE2.png" class="icon"/> `End portal frame` กับ <img src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/6/68/Bedrock_JE2_BE2.png" class="icon"/> `Bedrock`
 
 <a name="configuration-guide"></a>
 <br>
