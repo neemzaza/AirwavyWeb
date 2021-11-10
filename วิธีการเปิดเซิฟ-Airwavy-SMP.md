@@ -1,3 +1,10 @@
+---
+title: 'วิธีการเปิดเซิฟ Airwavy SMP'
+date: '2020-03-16T05:35:07.322Z'
+author:
+  name: Airwavy
+---
+
 ### วิธีการเปิดเซิฟ Airwavy SMP
 *สำหรับใครที่ยังไม่มีบัญชี [ploudos](https://ploudos.com/register) ให้ไปสมัครก่อน เพราะต้องใช้ username ของคุณในการ add เพิ่มเข้าไป*
 1. เปิดเว็บ [https://ploudos.com/](https://ploudos.com/)
