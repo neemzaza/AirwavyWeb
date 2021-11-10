@@ -1,3 +1,10 @@
+---
+title: 'ข้อมูลเกี่ยวกับ Airwavy SMP'
+date: '2020-03-16T05:35:07.322Z'
+author:
+  name: Airwavy
+---
+
 ### ข้อมูลเกี่ยวกับ Airwavy Smp
 **Host ที่ใช้อยู่ (ตั้งแต่ 7/10/2021)** 
 > [Ploudos](https://ploudos.com/)
