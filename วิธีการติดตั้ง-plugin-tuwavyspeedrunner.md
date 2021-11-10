@@ -1,3 +1,10 @@
+---
+title: 'วิธีการติดตั้ง plugin tuwavyspeedrunner'
+date: '2020-03-16T05:35:07.322Z'
+author:
+  name: Airwavy
+---
+
 <a name="installation"></a>
 
 ### <i class="bi bi-clipboard-check"></i> Installation - การติดตั้ง
