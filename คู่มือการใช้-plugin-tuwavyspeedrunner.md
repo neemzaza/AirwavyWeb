@@ -1,3 +1,10 @@
+---
+title: 'คู่มือการใช้ plugin tuwavyspeedrunner'
+date: '2020-03-16T05:35:07.322Z'
+author:
+  name: Airwavy
+---
+
 ### <i class="bi bi-file-earmark-text-fill"></i> Wiki - คู่มือ
 `ก่อนที่จะเริ่ม ตรวจสอบให้แน่ใจก่อนว่าได้ทำตามขั้นตอน Installation แล้ว ถ้าไม่ทำตาม อาจเกิดข้อผิดพลาดได้!`
 #### <i class="bi bi-joystick"></i> วิธีการเล่น
