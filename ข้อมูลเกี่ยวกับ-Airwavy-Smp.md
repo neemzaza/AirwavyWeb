@@ -4,6 +4,7 @@ date: '2020-03-16T05:35:07.322Z'
 author:
   name: Airwavy
 cover_image: 'https://i.pinimg.com/originals/42/48/dc/4248dc2842854731abc80bee7ecb1346.png'
+tags: ["SMP", "Airwavy", "Minecraft"]
 ---
 
 ### ข้อมูลเกี่ยวกับ Airwavy Smp
