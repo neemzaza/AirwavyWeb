@@ -3,6 +3,8 @@ title: 'คู่มือการใช้ plugin tuwavyspeedrunner'
 date: '2020-03-16T05:35:07.322Z'
 author:
   name: Airwavy
+excerpt: "บทความนี้จะบอกการใช้งานทั้งฝั่งของ Admin และผู้เล่น"
+cover_image: "https://i.ibb.co/DRTQdd7/tuwavythumbnail1.jpg"
 ---
 
 ### <i class="bi bi-file-earmark-text-fill"></i> Wiki - คู่มือ
