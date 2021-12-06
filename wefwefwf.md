@@ -3,7 +3,7 @@
 title: 'wefwefwf'
 date: 'function toUTCString() { [native code] }'
 author:
-    name: Airwavy
+    name: "Airwavy"
 excerpt: ""
 cover_image: ''
 tags: ["SMP", "Airwavy", "Minecraft"]
