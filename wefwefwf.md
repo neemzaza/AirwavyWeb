@@ -1,7 +1,7 @@
 
 ---
 title: 'wefwefwf'
-date: 'function toUTCString() { [native code] }'
+date: '784723894'
 author:
     name: "Airwavy"
 excerpt: ""
