@@ -1,6 +1,7 @@
 ---
 title: 'คู่มือการใช้ plugin tuwavyspeedrunner'
 date: '2020-03-16T05:35:07.322Z'
+filename: 'ADeYsNcIsNctAsNd'
 author:
   name: Airwavy
 excerpt: "บทความนี้จะบอกการใช้งานทั้งฝั่งของ Admin และผู้เล่น"
