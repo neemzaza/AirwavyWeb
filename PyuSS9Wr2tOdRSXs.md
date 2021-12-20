@@ -1,6 +1,7 @@
 ---
 title: 'ปัญหาของ plugin tuwavyspeedrunner'
 date: '2020-03-16T05:35:07.322Z'
+filename: 'PyuSS9Wr2tOdRSXs'
 author:
   name: Airwavy
 ---
